@@ -37,6 +37,39 @@ a:hover {
 
 /* Bloc */
 
+#sidebar {
+  background-color: #384047;
+  position: fixed;
+  width: 120px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  text-align: center;
+}
+
+#sidebar ul {
+  list-style: none;
+  padding-left: 0px;
+}
+
+#sidebar li {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+#sidebar a {
+  font-size: 30px;
+  color: #788188;
+}
+
+#sidebar:hover {
+  color: #000;
+}
+
+#page-content {
+  margin-left: 300px;
+}
+
 .container {
   width: 700px;
   margin: 0 auto;
