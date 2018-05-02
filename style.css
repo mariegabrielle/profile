@@ -62,12 +62,12 @@ a:hover {
   color: #788188;
 }
 
-#sidebar:hover {
+#sidebar i:hover {
   color: #000;
 }
 
 #page-content {
-  margin-left: 300px;
+  margin-left: 120px;
 }
 
 .container {
